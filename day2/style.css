@@ -1,0 +1,28 @@
+h1
+{
+color:red;
+font-size: 60 em;
+font-family: monospace;
+}
+
+h2
+{
+color: Blue;
+font-size: 4em;
+font-family: serif;
+}
+
+a
+{
+text-decoration: none;
+font-weight: bold;
+}
+ul
+{
+  list-style-image: url(https://art.ngfiles.com/images/318000/318693_jaschieffer_hotdog-man.png?f1410151773);
+}
+img
+{
+  width: 2px
+  length:2px
+}
